@@ -6,7 +6,6 @@ header {
     background-image: url(../images/logo.png);
     background-repeat: no-repeat;
 }
-
 header.logo {
     margin-left: 20px;
 }
